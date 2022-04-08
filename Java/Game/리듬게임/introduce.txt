@@ -1,0 +1,4 @@
+- 유튜브 나동빈 - 자바(JAVA) 리듬게임 만들기 강좌를 참고하였습니다.
+링크 : https://youtube.com/playlist?list=PLRx0vPvlEmdDySO3wDqMYGKMVH4Qa4QhR
+
+- 사용한 이미지 파일, 음악 파일은 무료 소스입니다.
