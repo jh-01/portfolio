@@ -1,0 +1,105 @@
+@charset "utf-8";
+@font-face{
+	font-family:'DungGeunMo';
+	src: local("https://cactus.tistory.com/193"),
+	url("fonts/DungGeunMo.woff") format('woff');
+}
+
+*{
+	list-style: none;
+	text-decoration: none;
+	background-color:#010081;
+	color: white;
+	margin: auto;
+}
+
+body {font-family:'DungGeunMo';}
+
+.title{
+  text-align: center;
+  margin-top: 100px;
+  width: 1000px;
+  letter-spacing: 20px;
+}
+
+.list {
+  text-align:center;
+  letter-spacing: 5px;
+  border-top: 2px white solid;
+  border-right:5px white solid;
+  border-left: 5px white solid;
+  margin-top: 20px;
+  /* padding-bottom: 40px;
+  padding-top: 20px; */
+  padding: 20px 0px 40px 0px;
+  width: 990px;
+  line-height: 30px;
+}
+
+.index{
+  padding-left: 0px;
+}
+
+.login{
+  /*position: absolute;*/
+  /* text-align:center; */
+  border-top: 2px white solid;
+  border-right:5px white solid;
+  border-left: 5px white solid;
+  padding-bottom: 20px;
+  width: 990px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  top:42%;
+}
+
+.tri{
+  padding-left: 60px;
+  text-align: left;
+}
+
+.text1 {
+  text-align: left;
+  margin-left: 20px;
+  background-color: white;
+  color: black;
+  width: 600px;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 60px;
+}
+
+.input{
+  padding-top: 10px;
+}
+
+.text2{
+  text-align: left;
+  margin-left: 10px;
+  padding-left: 40px;
+  display: inline;
+}
+
+.id, .pass{
+  border: none;
+  background-color: rgb(0, 0, 128);
+  color: white;
+  display: inline;
+  width: 400px;
+  padding: 0px;
+}
+
+.input_id{
+  margin-left: 10px;
+  padding-left: 40px;
+}
+
+input:focus{
+  outline: none;
+}
+
+.myBtn {
+  display: none;
+}

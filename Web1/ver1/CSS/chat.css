@@ -1,0 +1,30 @@
+*{
+    background-color: #000080;
+    color: white;
+}
+
+h1 {
+    color: white;
+    margin-left: 33px;
+}
+  
+.line1 {
+    width: 60px;
+    height: 3px;
+    border: none;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-bottom: 0px;
+}
+  
+.container2{
+    margin-left: 20px;
+}
+
+.message-bubble > *
+{
+    padding-left: 10px;
+}
+
+.panel-body { padding: 0px; }
